@@ -3,59 +3,59 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"MS-Tube",
+        description:"It is build on top of the React JS, with styledComponents and also use api for fetching data.",
+        tags:["react","api","styledComponents","Scss"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"https://milan-sharma-449.github.io/MSTube/",
+        github:"https://github.com/Milan-Sharma-449/MSTube"
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"tMovies",
+        description:"A Movie website build in ReactJS. With searching and filtering functionalities.",
+        tags:["react","sass","TMDb","MongoDb","Css","Api's"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"https://milansharma.me/tmovies/",
+        github:"https://github.com/Milan-Sharma-449/tMovies"
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
+        name:"Sinit Chat (Chat App)",
+        description:"Sinit Chat allows you to communicate with your customers through chat. It enables you to send and receive messages. Chatting apps make it easier, simpler and faster to connect with everyone and it is also easy to use.",
         tags:["react","api","sass"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"https://chat-web-app-d4c52.web.app/",
+        github:"https://github.com/Milan-Sharma-449/chat-app"
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
+        name:"Portfolio",
+        description:"A cool looking personal Portfolio build using ReactJS and styledComponents.It has really smooth animations.",
         tags:["react","styledComponents","react-router"],
         
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        demo:"https://milansharma.me/",
+        github:"https://github.com/Milan-Sharma-449/Portfolio-react"
        
     },{
         id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
+        name:"Gym App (Gold's Gym)",
+        description:"A gym app build using Redux-toolkit and framer-motion for smooth animations.",
+        tags:["react","redux","framer-motion","Api"],
         
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
+        demo:"https://milansharma.me/Gold's-Gym/",
+        github:"https://github.com/Milan-Sharma-449/gold-s-gym"
         
     },
     {
         id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
+        name:"Box-Office",
+        description:"box-office is a react based website which used to show the description related to the searched Show or Actor such as (About, release date, aired if any, no. of season or episodes, cast, dates) and also you can make your own loved list by starring them.",
         tags:["react","react-router","css"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
+        demo:"https://milansharma.me/boxoffice",
+        github:"https://github.com/Milan-Sharma-449/box-office"
         
     },
     
