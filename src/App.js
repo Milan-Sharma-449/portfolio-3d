@@ -32,9 +32,9 @@ function App() {
             <Route path="/" element={<Main />} />
 
             <Route path="/about" element={<AboutPage />} />
-
+{/*
             <Route path="/blog" element={<BlogPage />} />
-
+*/}
             <Route path="/work" element={<WorkPage />} />
 
             <Route path="/skills" element={<MySkillsPage />} />
