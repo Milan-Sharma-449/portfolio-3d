@@ -72,9 +72,9 @@ const AboutPage = () => {
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
         <Main>
-        I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+        I'm a front-end developer | Machine Learning Engineer located in India.
 <br /> <br/>
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and also have industrial experience of 1.1 year. I love to play e-games and read books.
+I'm interested in the whole Machine Learning field and frontend stack, Like trying new things and building great projects. I'm an independent freelancer and also have industrial experience of 1.1 year. I love to play e-games and read books.
 <br/> <br/>
 I believe everything is an Art when you put your consciousness in it. <br/><br/>You can connect with me via social links.
         </Main>

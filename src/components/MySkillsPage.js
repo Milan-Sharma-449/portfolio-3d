@@ -93,7 +93,7 @@ const MySkillsPage = () => {
 <ParticleComponent theme='light' />
             <Main>
 <Title>
-    <Design width={40} height={40} /> Designer
+    <Design width={40} height={40} /> Web Designer | Developer
 </Title>
 <Description>
 I love to create design which speaks, Keep it clean, minimal and simple.
@@ -105,36 +105,34 @@ I love to create design which speaks, Keep it clean, minimal and simple.
         Web Design
     </li>
     <li>
-        Mobile Apps
+        Web Pages/Websites
     </li>
 </ul>
 </Description>
 <Description>
 <strong>Tools</strong>
-      <p> Figma, 
-       React Native, 
-       Android App Studio</p>
+      <p> Html, Css, Js, React, Node, Tailwind, Firebase, Api, MongoDB etc.</p>
 
 </Description>
 
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Frontend Developer
+    <Develope width={40} height={40} /> Machine Learning Engineer
 </Title>
 <Description>
-I am passionate about Web Development and Front-End Design. I am a skilled Machine Learning Engineer and master of web tools
+I am passionate about Data Analysis and Artificial Intelligence. I am a skilled Machine Learning Engineer.
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Node, Machine Learning, Artificial Intelligence, Data Analysis, Tailwind, Firebase, Api, MongoDB etc.
+Machine Learning, Artificial Intelligence, Data Analysis, UCI, Prediction, Data Processing  etc.
 </p>
 </Description>
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, Github etc.
+Jupyter NoteBook, Github, Kaggle etc.
 </p>
 </Description>
 
