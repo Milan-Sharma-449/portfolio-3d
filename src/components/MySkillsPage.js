@@ -123,12 +123,12 @@ I love to create design which speaks, Keep it clean, minimal and simple.
     <Develope width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-I am passionate about Web Development and Front-End Design. I am a skilled full-stack developer and master of web tools
+I am passionate about Web Development and Front-End Design. I am a skilled Machine Learning Engineer and master of web tools
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Npde,  Redux, Sass, Bootstrap, Tailwind, Firebase, Api, MongoDB etc.
+Html, Css, Js, React, Node, Machine Learning, Artificial Intelligence, Data Analysis, Tailwind, Firebase, Api, MongoDB etc.
 </p>
 </Description>
 <Description>
